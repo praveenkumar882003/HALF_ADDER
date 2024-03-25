@@ -59,6 +59,7 @@ module half_adder(a,b,sum,carry);
 endmodule
 # Output
 <img width="617" alt="image" src="https://github.com/praveenkumar882003/HALF_ADDER/assets/164858953/23b43914-d515-453a-8034-97ff2ffc2c14">
+
 # Result
 
 Hence, the stimulation and synthesis of a half adder was run successfully by using Xilinx ISE.
