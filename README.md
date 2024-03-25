@@ -49,14 +49,14 @@ On the board, by giving required input, the LEDs starts to glow light, indicatin
 # Carry = A AND B
 ![image](https://github.com/RESMIRNAIR/HALF_ADDER/assets/154305926/988ae131-0822-4d23-941b-eaafad349a72)
 # Program
-Developed By :P.ABIRAMI
-Register Number:212222060006
+~~~
 module half_adder(a,b,sum,carry);
        input a,b;
        output sum,carry;
        xor g1(sum,a,b);
        and g2(carry,a,b);
 endmodule
+~~~
 # Output
 <img width="617" alt="image" src="https://github.com/praveenkumar882003/HALF_ADDER/assets/164858953/23b43914-d515-453a-8034-97ff2ffc2c14">
 
